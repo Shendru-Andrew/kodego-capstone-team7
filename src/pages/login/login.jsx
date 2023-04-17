@@ -1,7 +1,12 @@
 import React from 'react'
+import Sidebar from '../../components/login-page/sidebar'
+import Mainlogin from '../../components/login-page/mainlogin'
 
 export default function login() {
   return (
-    <div>login</div>
+    <main>
+      <Sidebar />
+      <Mainlogin />
+    </main>
   )
 }
