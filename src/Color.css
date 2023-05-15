@@ -1,0 +1,38 @@
+:root{
+    --dark-color: #D6D3D4;
+    --dark-light-color: #F5F5F5;
+    --light-color: #FFFFFF;
+    --text-color: #1A2455;
+    --link-color: #888481;
+    --button-color: #B4D8F7;
+    --button-text: #000410;
+}
+
+.darker-background{
+    background-color: var(--dark-color);
+}
+
+/* .main-sidebar-container{
+    background-color: var(--dark-light-color);
+} */
+
+.navbar-container, .light-background{
+    background-color: var(--light-color);
+}
+
+.Our-Logo{
+    color: var(--text-color);
+}
+
+.Sidebar-Links{
+    color: var(--link-color);
+}
+
+.dark-background{
+    background-color: var(--dark-light-color);
+}
+
+.btn-color{
+    background-color: var(--button-color);
+    color: var(--button-text);
+}

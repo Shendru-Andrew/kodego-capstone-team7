@@ -1,0 +1,21 @@
+.Products{
+    width: 80vw;
+    /* height: calc(100vh - 100px); */
+    height: 87%;
+    /* margin-left: 20vw; */
+}
+.products-container{
+    border-radius: 20px;
+}
+
+.product-titles{
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+
+/* .product-place{
+    height: 85%;
+} */
+.product-btn-place{
+    height: 15%;
+}
